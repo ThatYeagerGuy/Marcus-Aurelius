@@ -1,6 +1,3 @@
 # Marcus-Aurelius
-Meme bot
-Bot basis github: 
-https://github.com/r4dixx/discord-quotebot
-Discord docs:
-https://discord.com/developers/docs/resources/webhook#execute-githubcompatible-webhook
+Meme bot based on the discord.js guide
+[https://github.com/r4dixx/discord-quotebot](https://discordjs.guide/#before-you-begin)
